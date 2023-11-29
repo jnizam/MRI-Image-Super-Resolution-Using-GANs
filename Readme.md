@@ -1,4 +1,4 @@
-# Project Readme
+# MRI Image Super Resolution Using GANs
 
 ## Prerequisites
 
