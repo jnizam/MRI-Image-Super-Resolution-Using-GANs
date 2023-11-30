@@ -8,6 +8,7 @@ CUDA support for GPU (required for SRGAN, optional for other models)
 ## Installation
 
 cd Final_Project
+
 Install dependencies:
 ```
 pip install -r requirements.txt
